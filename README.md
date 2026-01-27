@@ -1,0 +1,2 @@
+# Dual_camera_recoding
+Dual_camera_recoding_using_image_control_pySDK
